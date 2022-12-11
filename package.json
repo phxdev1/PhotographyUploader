@@ -133,7 +133,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "events.once": "^2.0.2",
     "exorcist": "^1.0.1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "fakefile": "0.0.9",
     "flat": "^4.1.0",
     "github-contributors-list": "1.2.3",
